@@ -1,8 +1,5 @@
 import streamlit as st
 
-st.title("Wei He")
-st.markdown("Email: [weihetoronto@gmail.com](mailto:weihetoronto@gmail.com) | Phone: 647-783-3612")
-
 st.set_page_config(page_title="Wei He - Resume", layout="centered")
 
 st.title("Wei He")
